@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c212e105.css",
+    "main.js": "/static/js/main.91fdf3fe.js",
+    "static/js/453.24c8d7b6.chunk.js": "/static/js/453.24c8d7b6.chunk.js",
+    "static/media/inovee-logo.png": "/static/media/inovee-logo.b8d37e7cb733a065c1b2.png",
+    "static/media/background-buildings.jpg": "/static/media/background-buildings.6fe3932d263dcc7f96c1.jpg",
+    "index.html": "/index.html",
+    "main.c212e105.css.map": "/static/css/main.c212e105.css.map",
+    "main.91fdf3fe.js.map": "/static/js/main.91fdf3fe.js.map",
+    "453.24c8d7b6.chunk.js.map": "/static/js/453.24c8d7b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c212e105.css",
+    "static/js/main.91fdf3fe.js"
+  ]
+}
